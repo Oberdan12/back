@@ -1,0 +1,331 @@
+{
+	"SkuContext": {
+		"Id": 125444,
+		"ProductId": 125444,
+		"NameComplete": "C**************************************************************",
+		"ProductName": "C**************************************************************",
+		"ProductDescription": "<html>\n<head>\n</head>\n<body>\n<br>\n<br>\n<big><span style=\"font-weight: bold;\">Cooler Gabinete 12cm Lian-Li RGB\n(pack com 3) - BR DIGITAL-3R B</span></big><br>\n<br>\n<span style=\"font-weight: bold;\">Características:</span><br>\n- Marca: Lian Li<br>\n- Modelo: Bora Digital Black<br>\n<br>\n<span style=\"font-weight: bold;\">Especificações:</span><br>\n- Dimensão do Ventilador: 120 mm x 120 mm x 27 mm<br>\n- Tensão nominal: DC 12V (tensão de LED 5V)<br>\n- Velocidade do ventilador: 900 ~ 1800 RPM<br>\n- Max. Pressão do ar: 1,46 m-H2O<br>\n- Max. Fluxo de ar: 57,97 CFM<br>\n- Ruído Acústico (Min-Max): 19,4 ~ 29 dBA<br>\n- Tipo de isolamento: Classe A<br>\n- Corrente Bloqueada: 0,2 A<br>\n- Tipo de rolamento: Rolamento Dinâmico Fluido<br>\n- Tensão de operação: 10.8V --- 13.2V<br>\n- Tensão de arranque: = 6V (ciclo de trabalho 100%)<br>\n- Corrente de entrada: Max. 0,45A<br>\n- Potência de entrada: Max. 5,4W<br>\n</body>\n</html>",
+		"ProductRefId": "125444",
+		"TaxCode": "84145990",
+		"SkuName": "C**************************************************************",
+		"IsActive": true,
+		"IsTransported": true,
+		"IsInventoried": true,
+		"IsGiftCardRecharge": false,
+		"ImageUrl": "https://waz.vteximg.com.br/arquivos/ids/222135-55-55/125444-1-Cooler_Gabinete_12cm_Lian_Li_RGB_pack_com_3_BR_DIGITAL_3R_B_125444.jpg?v=638094707654600000",
+		"DetailUrl": "/cooler-gabinete-12cm-lian-li-rgb-pack-com-3-br-digital-3r-b-125444-html/p",
+		"CSCIdentification": null,
+		"BrandId": "85412",
+		"BrandName": "L******",
+		"IsBrandActive": true,
+		"Dimension": {
+			"cubicweight": 1,
+			"height": 10,
+			"length": 15,
+			"weight": 900,
+			"width": 16
+		},
+		"RealDimension": {
+			"realCubicWeight": 0,
+			"realHeight": 10,
+			"realLength": 15,
+			"realWeight": 900,
+			"realWidth": 16
+		},
+		"ManufacturerCode": "",
+		"IsKit": false,
+		"KitItems": [],
+		"Services": [],
+		"Categories": [],
+		"CategoriesFullPath": [
+			"/50/93/97/",
+			"/50/93/",
+			"/50/"
+		],
+		"Attachments": [],
+		"Collections": [],
+		"SkuSellers": [
+			{
+				"SellerId": "1",
+				"StockKeepingUnitId": 125444,
+				"SellerStockKeepingUnitId": "125444",
+				"IsActive": true,
+				"FreightCommissionPercentage": 0,
+				"ProductCommissionPercentage": 0
+			}
+		],
+		"SalesChannels": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6
+		],
+		"Images": [
+			{
+				"ImageUrl": "https://waz.vteximg.com.br/arquivos/ids/222135/125444-1-Cooler_Gabinete_12cm_Lian_Li_RGB_pack_com_3_BR_DIGITAL_3R_B_125444.jpg?v=638094707654600000",
+				"ImageName": "",
+				"FileId": 222135
+			},
+			{
+				"ImageUrl": "https://waz.vteximg.com.br/arquivos/ids/222136/125444-2-Cooler_Gabinete_12cm_Lian_Li_RGB_pack_com_3_BR_DIGITAL_3R_B_125444.jpg?v=638094707833270000",
+				"ImageName": "",
+				"FileId": 222136
+			},
+			{
+				"ImageUrl": "https://waz.vteximg.com.br/arquivos/ids/222137/125444-3-Cooler_Gabinete_12cm_Lian_Li_RGB_pack_com_3_BR_DIGITAL_3R_B_125444.jpg?v=638094707901100000",
+				"ImageName": "",
+				"FileId": 222137
+			},
+			{
+				"ImageUrl": "https://waz.vteximg.com.br/arquivos/ids/222138/125444-4-Cooler_Gabinete_12cm_Lian_Li_RGB_pack_com_3_BR_DIGITAL_3R_B_125444.jpg?v=638094708049970000",
+				"ImageName": "",
+				"FileId": 222138
+			}
+		],
+		"Videos": [],
+		"SkuSpecifications": [],
+		"ProductSpecifications": [
+			{
+				"FieldId": 358,
+				"FieldName": "C********************",
+				"FieldValueIds": [],
+				"FieldValues": [
+					"3x Ventoinhas"
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 584,
+				"FieldName": "V******************",
+				"FieldValueIds": [
+					5842
+				],
+				"FieldValues": [
+					"120mm"
+				],
+				"IsFilter": true,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 1538,
+				"FieldName": "G*******",
+				"FieldValueIds": [],
+				"FieldValues": [
+					"12 meses de garantia"
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 1697,
+				"FieldName": "E**************",
+				"FieldValueIds": [
+					10092
+				],
+				"FieldValues": [
+					"Não"
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 1708,
+				"FieldName": "I**********************",
+				"FieldValueIds": [],
+				"FieldValues": [
+					"A garantia deste produto é exercida com a WAZ durante toda a sua vigência, que está especificada em meses na nota fiscal. Contato: garantia@waz.com.br ou (31) 2126-6610 (Telefone ou Whatsapp) ou 0800-200-3090. Saiba mais em: <a href='https://www.waz.com.br/garantia' target='_blank'>www.waz.com.br/garantia</a>."
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 585,
+				"FieldName": "C******************",
+				"FieldValueIds": [
+					5845
+				],
+				"FieldValues": [
+					"4-Pinos"
+				],
+				"IsFilter": true,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 586,
+				"FieldName": "E******",
+				"FieldValueIds": [],
+				"FieldValues": [
+					"12V"
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 587,
+				"FieldName": "V********************",
+				"FieldValueIds": [],
+				"FieldValues": [
+					"900 ~ 1800 RPM"
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 588,
+				"FieldName": "F**********",
+				"FieldValueIds": [],
+				"FieldValues": [
+					"57,97 CFM"
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 589,
+				"FieldName": "N*************",
+				"FieldValueIds": [],
+				"FieldValues": [
+					"19,4 ~ 29 dBA"
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 590,
+				"FieldName": "R********",
+				"FieldValueIds": [],
+				"FieldValues": [
+					"Rolamento Dinâmico Fluido"
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 591,
+				"FieldName": "I*************",
+				"FieldValueIds": [
+					5847
+				],
+				"FieldValues": [
+					"Sim"
+				],
+				"IsFilter": true,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 592,
+				"FieldName": "D********",
+				"FieldValueIds": [],
+				"FieldValues": [
+					"120 mm x 120 mm x 27 mm"
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			},
+			{
+				"FieldId": 593,
+				"FieldName": "O*****************",
+				"FieldValueIds": [],
+				"FieldValues": [
+					"- Max. Pressão do ar: 1,46 m-H2O\r\n- Tipo de isolamento: Classe A\r\n- Corrente Bloqueada: 0,2 A\r\n- Tensão de operação: 10.8V --- 13.2V\r\n- Tensão de arranque: = 6V (ciclo de trabalho 100%)\r\n- Corrente de entrada: Max. 0,45A\r\n- Potência de entrada: Max. 5,4W"
+				],
+				"IsFilter": false,
+				"FieldGroupId": 42,
+				"FieldGroupName": "G****"
+			}
+		],
+		"ProductClustersIds": "143,146,149,150,181,325",
+		"PositionsInClusters": {},
+		"ProductCategoryIds": "/50/93/97/",
+		"IsDirectCategoryActive": true,
+		"ProductGlobalCategoryId": 278,
+		"ProductCategories": {
+			"50": "Hardware",
+			"93": "Refrigeração",
+			"97": "Cooler p/ Gabinete (Ventoinha)"
+		},
+		"CommercialConditionId": 1,
+		"RewardValue": 0,
+		"AlternateIds": {
+			"RefId": "125444"
+		},
+		"AlternateIdValues": [
+			"4718466008961",
+			"125444"
+		],
+		"EstimatedDateArrival": null,
+		"MeasurementUnit": "un",
+		"UnitMultiplier": 1,
+		"InformationSource": "Indexer",
+		"ModalType": null,
+		"KeyWords": "informática,loja,computador,equipamento,hardware,125444,4718466008961",
+		"ReleaseDate": "2023-01-16T00:00:00Z",
+		"ProductIsVisible": true,
+		"ShowIfNotAvailable": true,
+		"IsProductActive": true,
+		"ProductFinalScore": 0
+	},
+	"NotifyRequest": {
+		"id": "0c7cd867-53f3-11ef-8452-12994ace7a87",
+		"name": "r**********************",
+		"email": "b******************@g****.c**",
+		"skuId": "125444",
+		"createdAt": "2024-08-06T12:54:44.302Z",
+		"notificationSend": "false",
+		"locale": "pt-BR",
+		"seller": {
+			"sellerId": "1",
+			"sellerName": "w**",
+			"addToCartLink": "https://portal.vtexcommercestable.com.br/checkout/cart/add?sku=125444&qty=1&seller=1&sc=1&price=35293&cv=_&sc=1",
+			"sellerDefault": true
+		}
+	},
+	"_accountInfo": {
+		"MainAccountName": "w**",
+		"AccountName": "w**",
+		"Cnpj": "06036939000192",
+		"Id": "34265500-4573-4a16-a977-d4d3870e1ad1",
+		"AppId": "82943b54-a8e3-41d6-8082-82fc3daebe7d",
+		"IsActive": true,
+		"IsOperating": true,
+		"CreationDate": "2017-04-01T10:02:57",
+		"OperationDate": "2018-01-30T18:33:59",
+		"CompanyName": "w**",
+		"TradingName": "w**",
+		"City": "Belo Horizonte",
+		"Complement": "Lojas 1 a 7",
+		"Country": "Brazil",
+		"State": "MG",
+		"Address": "Av. do Contorno",
+		"District": null,
+		"Number": "2939",
+		"PostalCode": "30110-013",
+		"Licenses": [
+			7
+		],
+		"ParentAccountId": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex",
+		"Privacy": null,
+		"HasPiiRestriction": false,
+		"Infra": null,
+		"Sponsor": "ca8bf08d-7abc-4bfb-ac3b-4444b855ed35"
+	}
+}
